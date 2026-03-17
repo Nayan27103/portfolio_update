@@ -236,7 +236,7 @@ export default function Hero() {
               {/* Image container */}
               <div className="absolute inset-[2px] rounded-3xl overflow-hidden">
                 <img
-                  src="/ai.png"
+                  src="/"
                   alt="Nayan Patel"
                   className="w-full h-full object-cover"
                 />
